@@ -16,7 +16,7 @@ Bu araç ile ekran görüntülerinizi AVI formatında kaydedebilir, FPS seçebil
 
 ## Ekran Görüntüsü
 
-![EAG Recorder](Ekran görüntüsü 2025-09-29 200840.png
+![EAG Recorder](https://github.com/EagleSoft461/EAG_Recorder/blob/v1.0.0/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-09-29%20200840.png
 )
 
 ---
